@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-<h1 align="center">Hi, I'm <strong>Saleh Ayoub</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Saleh Ayoub</strong> 👋👨‍💻✨</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/salehhamdy">
