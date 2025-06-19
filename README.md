@@ -14,7 +14,14 @@
   <a href="https://github.com/salehhamdy">
     <img src="https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:salehhamdy599@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1wTokS_15tAz2i_fKBoBT2hvCxIMnset3/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/CV-%23007ACC?style=flat&logo=google-drive&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
