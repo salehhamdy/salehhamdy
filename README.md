@@ -5,12 +5,15 @@
 <h1 align="center">Hi, I'm <strong>Saleh Ayoub</strong> 👋</h1>
 
 <p align="center">
-    <a href="https://linkedin.com/in/salehhamdy"">
-        <img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/salehhamdy.2?igsh=MTRzb2pjaGIzODVkdg==">
-        <img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>
-    </a>
+  <a href="https://linkedin.com/in/salehhamdy">
+    <img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/salehhamdy.2?igsh=MTRzb2pjaGIzODVkdg==">
+    <img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/salehhamdy">
+    <img src="https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
