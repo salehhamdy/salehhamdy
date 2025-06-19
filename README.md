@@ -32,7 +32,7 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
 - 🧩 Competitive-programming addict & community mentor.  
 - 🚀 Always leveling-up, always shipping — from predictive analytics to full-stack .NET projects.  
 
-> *“No amount of knowledge is enough knowledge.”* 🧠  
+> ***No amount of knowledge is enough knowledge**.* 🧠  
 
 ---
 
