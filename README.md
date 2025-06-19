@@ -57,7 +57,6 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="25%" align="center">
         <span>Git</span><br><br>
@@ -72,11 +71,10 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="25%" align="center">
-        <span>Jupyter Lab</span><br><br>
+        <span>Data Science</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
     </tr>
-
     <tr valign="top">
       <td width="25%" align="center">
         <span>C# / .NET</span><br><br>
@@ -95,85 +93,8 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       </td>
     </tr>
-
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Java</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Node.js</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      </td>
-    </tr>
-
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Docker</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Kubernetes</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Terraform</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Firebase</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-      </td>
-    </tr>
-
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Pandas</span><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Scikit-learn</span><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>PyTorch</span><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-      </td>
-    </tr>
-
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Android</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Kotlin</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Arduino</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>GitHub</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
-
 ---
 
 ## 🤓 Fun Facts
