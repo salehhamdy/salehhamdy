@@ -89,13 +89,6 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
 
 ---
 
-## 📬 Let’s Connect
-- 📧 salehhamdy599@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/salehhamdy)  
-- 📄 [View My CV](https://drive.google.com/file/d/1wTokS_15tAz2i_fKBoBT2hvCxIMnset3/view?usp=drive_link)
-
----
-
 ## 🤓 Fun Facts
 - 🐛 My debugging ritual: stare ➡️ panic ➡️ *boom* — it works!  
 - 🧩 Problems feel like puzzles; I can’t log off until the last piece clicks.  
