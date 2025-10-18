@@ -26,7 +26,7 @@
 ---
 
 ## 🎓 About Me
-I’m a **Senior Computer Science & Artificial Intelligence student** who loves tackling real-world challenges with code and data.  
+I’m a **Fresh Computer Science & Artificial Intelligence Graduate** who loves tackling real-world challenges with code and data.  
 - 🤖 Deeply curious about AI & machine learning — especially how intelligent systems can make life easier.  
 - 🛠️ Backend-first developer with a soft spot for elegant architecture and clean APIs.  
 - 🧩 Competitive-programming addict & community mentor.  
